@@ -1,0 +1,1 @@
+ C:\\Users\\oluwa\\AndroidStudioProjects\\bitincome\\.dart_tool\\flutter_build\\a2877b256feee2613e4680f8f3fb7839\\native_assets.yaml: 
