@@ -36,7 +36,7 @@ dependencies:
   flutter_local_notifications: 9.5.3+1
 
   #to create webview  
-  flutter_inappwebview: 5.6.0+2
+  flutter_inappwebview: ^5.8.0
 
   #to get theme modes set by user
   shared_preferences: ^2.0.15
